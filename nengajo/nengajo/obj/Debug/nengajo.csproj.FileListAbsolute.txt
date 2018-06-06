@@ -1,0 +1,10 @@
+C:\Users\csharp\Desktop\c#\okuyama\nengajo\nengajo\bin\Debug\nengajo.exe.config
+C:\Users\csharp\Desktop\c#\okuyama\nengajo\nengajo\bin\Debug\nengajo.exe
+C:\Users\csharp\Desktop\c#\okuyama\nengajo\nengajo\bin\Debug\nengajo.pdb
+C:\Users\csharp\Desktop\c#\okuyama\nengajo\nengajo\obj\Debug\nengajo.csprojAssemblyReference.cache
+C:\Users\csharp\Desktop\c#\okuyama\nengajo\nengajo\obj\Debug\nengajo.Form1.resources
+C:\Users\csharp\Desktop\c#\okuyama\nengajo\nengajo\obj\Debug\nengajo.Properties.Resources.resources
+C:\Users\csharp\Desktop\c#\okuyama\nengajo\nengajo\obj\Debug\nengajo.csproj.GenerateResource.cache
+C:\Users\csharp\Desktop\c#\okuyama\nengajo\nengajo\obj\Debug\nengajo.csproj.CoreCompileInputs.cache
+C:\Users\csharp\Desktop\c#\okuyama\nengajo\nengajo\obj\Debug\nengajo.exe
+C:\Users\csharp\Desktop\c#\okuyama\nengajo\nengajo\obj\Debug\nengajo.pdb
